@@ -6,6 +6,8 @@ Desafio de projeto DIO: Criando seu Primeiro Repositório no GitHub Para Compart
 
 > Commit resolvendo o conflito. Editado localmente.
 
+> Testando se o commit será verificado.
+
 ## Passos realizados
 
 - Criação de um repositório pelo GitHub.
